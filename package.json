@@ -1,0 +1,23 @@
+{
+  "name": "fit-nation-fullstk",
+  "version": "1.0.0",
+  "description": "== JS AMAZONA PROJECT STEPS: ==",
+  "main": "index.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dononichols/Fit-Nation-jsfullstk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dononichols/Fit-Nation-jsfullstk/issues"
+  },
+  "homepage": "https://github.com/dononichols/Fit-Nation-jsfullstk#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
