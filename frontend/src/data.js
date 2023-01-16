@@ -6,7 +6,7 @@ export default {
             name: 'Long Sleeve Dry Fit',
             category: 'Shirts',
             image: '/images/product-1.jpg',
-            price: 35,
+            price: 34,
             brand: 'All-in Wear',
             rating: 4.6,
             numReviews: 12,
